@@ -1,0 +1,2 @@
+C:\Users\Кирилл\source\repos\LabaProg_1.1.2\Debug\LabaProg_1.1.2.exe
+C:\Users\Кирилл\source\repos\LabaProg_1.1.2\Debug\LabaProg_1.1.2.pdb
