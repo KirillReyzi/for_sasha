@@ -1,0 +1,11 @@
+
+Был считан текст 1:
+raki vak
+makikosoek
+kokokaka
+Был считан текст 2:
+raki vak
+makikosoek
+kokokaka
+
+Был сформирован текст:
